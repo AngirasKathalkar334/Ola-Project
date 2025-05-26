@@ -42,3 +42,8 @@ Business Storytelling – Delivered insights with context for real-world impact
 ⭐ Ratings Distribution Chart
 
 📅 Monthly Ride Volume Line Chart
+
+✅ Conclusion
+This project helped me solidify my data analysis workflow — from writing efficient SQL queries and cleaning raw data and visualizations in Power BI. It also reflects my ability to draw actionable business conclusions from complex datasets.
+
+Whether you're looking to reduce cancellations, improve customer loyalty, or understand revenue performance, this project shows how data can be used as a powerful decision-making tool.
